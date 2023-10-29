@@ -1,0 +1,120 @@
+.div65,
+.div66 {
+  position: absolute;
+}
+.div65 {
+  top: 29px;
+  left: 158px;
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  color: var(--color-royalblue-200);
+}
+.div66 {
+  top: 35px;
+  left: 280px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 1440px;
+  height: 382px;
+  object-fit: cover;
+}
+.p4 {
+  margin: 0;
+}
+.div67 {
+  position: absolute;
+  top: 181px;
+  left: 158px;
+  letter-spacing: -0.03em;
+  line-height: 40px;
+  font-weight: 800;
+  color: var(--color-white);
+}
+.matchingresultpage-child19 {
+  position: absolute;
+  top: 141px;
+  left: 158px;
+  border-radius: var(--br-8xs);
+  width: 192px;
+  height: 25px;
+}
+.b8,
+.div68,
+.div69 {
+  position: absolute;
+  font-size: var(--font-size-mini);
+}
+.b8 {
+  top: 145px;
+  left: 165px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  color: var(--color-black);
+  width: 181px;
+}
+.div68,
+.div69 {
+  top: 276px;
+  left: 158px;
+  letter-spacing: -0.1em;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.div69 {
+  top: 412px;
+  left: 1185px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.03em;
+  color: var(--color-darkgray-200);
+}
+.div70,
+.div71,
+.userid2 {
+  position: absolute;
+  display: inline-block;
+}
+.userid2 {
+  top: 35px;
+  left: 1147px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  width: 197px;
+  height: 45px;
+}
+.div70,
+.div71 {
+  left: 163px;
+}
+.div70 {
+  top: 526px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  width: 101px;
+  height: 31px;
+}
+.div71 {
+  top: 563px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+  width: 340px;
+  height: 21px;
+}
+.matchingresultpage1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1413px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-inter);
+}

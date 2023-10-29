@@ -1,0 +1,343 @@
+.myprofilepage-child {
+  position: absolute;
+  top: 300px;
+  left: 215px;
+  background-color: #fbfbfb;
+  width: 243px;
+  height: 568px;
+}
+.b4,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  position: absolute;
+  top: 143px;
+  left: 284px;
+  font-size: var(--font-size-mini);
+}
+.b4,
+.div29,
+.div30,
+.div31,
+.div32 {
+  left: 393px;
+}
+.b4,
+.div30,
+.div31,
+.div32 {
+  left: 612px;
+}
+.b4,
+.div31,
+.div32 {
+  left: 721px;
+}
+.b4,
+.div32 {
+  left: 489px;
+}
+.b4 {
+  left: 188px;
+  color: var(--color-royalblue-200);
+}
+.myprofilepage-item {
+  position: absolute;
+  top: 175.75px;
+  left: -0.25px;
+  border-top: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1440.5px;
+  height: 0.5px;
+}
+.b5,
+.mypage2 {
+  position: absolute;
+}
+.b5 {
+  top: 80px;
+  left: 170px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 127px;
+  height: 42px;
+}
+.mypage2 {
+  top: 72px;
+  left: 248px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+}
+.myprofilepage-inner {
+  position: absolute;
+  top: 175.5px;
+  left: 181.5px;
+  border-top: 5px solid var(--color-royalblue-200);
+  box-sizing: border-box;
+  width: 69px;
+  height: 5px;
+}
+.myprofilepage-child1 {
+  position: absolute;
+  top: 312.5px;
+  left: 457.5px;
+  border-right: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1px;
+  height: 556px;
+}
+.div33,
+.div34 {
+  position: absolute;
+  left: 216px;
+}
+.div33 {
+  top: 213px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.div34 {
+  top: 241px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+}
+.myprofilepage-child2 {
+  position: absolute;
+  top: 312.5px;
+  left: 214.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 771px;
+  height: 1px;
+}
+.myprofilepage-child3,
+.myprofilepage-child4,
+.myprofilepage-child5,
+.myprofilepage-child6,
+.myprofilepage-child7,
+.myprofilepage-child8 {
+  position: absolute;
+  top: 522.5px;
+  left: 215.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 771px;
+  height: 1px;
+}
+.myprofilepage-child4,
+.myprofilepage-child5,
+.myprofilepage-child6,
+.myprofilepage-child7,
+.myprofilepage-child8 {
+  top: 595.5px;
+}
+.myprofilepage-child5,
+.myprofilepage-child6,
+.myprofilepage-child7,
+.myprofilepage-child8 {
+  top: 661.5px;
+}
+.myprofilepage-child6,
+.myprofilepage-child7,
+.myprofilepage-child8 {
+  top: 727.5px;
+}
+.myprofilepage-child7,
+.myprofilepage-child8 {
+  top: 799.5px;
+}
+.myprofilepage-child8 {
+  top: 867.5px;
+  left: 214.5px;
+}
+.div35,
+.div36,
+.div37,
+.div38,
+.div39,
+.div40 {
+  position: absolute;
+  top: 347px;
+  left: 246px;
+  display: inline-block;
+  width: 74px;
+  height: 15px;
+}
+.div36,
+.div37,
+.div38,
+.div39,
+.div40 {
+  top: 552px;
+  width: 98px;
+}
+.div37,
+.div38,
+.div39,
+.div40 {
+  top: 621px;
+  width: 42px;
+}
+.div38,
+.div39,
+.div40 {
+  top: 690px;
+  left: 247px;
+}
+.div39,
+.div40 {
+  top: 757px;
+  width: 90px;
+  height: 16px;
+}
+.div40 {
+  top: 827px;
+  left: 244px;
+  width: 123px;
+}
+.profilephoto {
+  position: absolute;
+  top: 338px;
+  left: 494px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0.3px solid #636363;
+  box-sizing: border-box;
+  width: 93px;
+  height: 92px;
+}
+.div41 {
+  position: relative;
+  white-space: nowrap;
+}
+.frame-div{
+  position: absolute;
+  left: 498px;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.myprofilepage-child10,
+.myprofilepage-child9 {
+  position: absolute;
+  left: 498px;
+  background-color: var(--color-white);
+
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.frame-div {
+  top: 450px;
+  width: 84px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.myprofilepage-child10,
+.myprofilepage-child9 {
+  top: 614px;
+  width: 205px;
+  height: 30px;
+}
+.myprofilepage-child10 {
+  top: 680px;
+  left: 499px;
+}
+.myprofilepage-child11 {
+  position: absolute;
+  top: 746px;
+  left: 498px;
+  width: 205px;
+  height: 30px;
+}
+.wrapper1,
+.wrapper2 {
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.myprofilepage-child11,
+.myprofilepage-child12{
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.myprofilepage-child12 {
+  position: absolute;
+  top: 819px;
+  left: 499px;
+  width: 205px;
+  height: 30px;
+}
+.wrapper1,
+.wrapper2 {
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.wrapper1 {
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  width: 84px;
+}
+.wrapper2 {
+  top: 892px;
+  left: 532px;
+  width: 62px;
+}
+.user,
+.wrapper2,
+.wrapper3 {
+  position: absolute;
+}
+.wrapper3 {
+  top: 892px;
+  left: 607px;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 62px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.user {
+  top: 552px;
+  left: 501px;
+}
+.myprofilepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.profile-image {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.frame-div input[type="file"] {
+  display: none;
+  border: none;
+}
